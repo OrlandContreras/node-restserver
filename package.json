@@ -1,0 +1,14 @@
+{
+  "name": "restserver",
+  "version": "0.0.1",
+  "description": "Api Rest Express Server",
+  "main": "index.js",
+  "author": "Orland Contreras <orland102@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.3"
+  }
+}
