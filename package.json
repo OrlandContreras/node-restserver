@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Api Rest Express Server",
   "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
   "author": "Orland Contreras <orland102@gmail.com>",
   "license": "MIT",
   "dependencies": {
